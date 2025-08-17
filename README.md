@@ -1,16 +1,16 @@
 <p align="center">
-  <img width="400" height="400" alt="Caxuo Rabbit Video Compressor Logo" src="YOUR_LOGO_IMAGE_LINK_HERE" />
+  <img width="400" height="400" alt="Caxuo Rabbit Video Compressor Logo" src="https://github.com/user-attachments/assets/6115dcdc-6ccc-4f96-988e-37094f9f9cd6" />
 </p>
 
 <h1 align="center">🎥 Caxuo Rabbit Video Compressor</h1>
 
 <p align="center">
-  <em>Free Bulk Video Processing — Fast, Portable & Easy</em>
+  <em>Free Bulk Video Compressor for Windows with added features — Fast, Portable & Easy</em>
 </p>
 
 ---
 
-**Go to Download page >>** https://github.com/anubhavyadav/Caxuo_Rabbit_Video_Compressor/releases/latest
+**Go to Download page >>** [https://github.com/anubhavyadav/Caxuo_Rabbit_Video_Compressor/releases/latest](https://github.com/anubhavyadav/Caxuo_RABBIT_Video_Compressor/releases/tag/v1.0.2)
 
 ---
 
@@ -20,7 +20,7 @@
 - Process hundreds of videos at once — without installation, directly from a clean, intuitive GUI.  
 
 <p align="center">
-  <img width="600" height="350" alt="Caxuo Rabbit Video Compressor Banner showcasing 5 processes" src="YOUR_BANNER_IMAGE_LINK_HERE" />
+  <img width="600" height="350" alt="Caxuo Rabbit Video Compressor Banner highlighting 5 processes" src="https://github.com/user-attachments/assets/dc85a7ac-6981-4cce-81f5-8bb6943b8ff3" />
 </p>
 
 ---
@@ -34,7 +34,7 @@
 - 🎵 **Extract Audio** — Save audio tracks at **128, 192, 256, or 320 kbps**  
 
 <p align="center">
-  <img width="602" height="602" alt="Caxuo Rabbit Video Compressor Home Screen Layout" src="YOUR_HOME_SCREEN_IMAGE_LINK_HERE" />
+  <img width="602" height="602" alt="Caxuo Rabbit Video Compressor Home Screen Layout" src="https://github.com/user-attachments/assets/92cf2b72-59c4-45ab-84f0-fcb6d4284ffe" />
 </p>
 
 ---
@@ -69,4 +69,4 @@
 
 ---
 
-**Go to Download page >>** https://github.com/anubhavyadav/Caxuo_Rabbit_Video_Compressor/releases/latest
+**Go to Download page >>** [https://github.com/anubhavyadav/Caxuo_Rabbit_Video_Compressor/releases/latest](https://github.com/anubhavyadav/Caxuo_RABBIT_Video_Compressor/releases/tag/v1.0.2)
