@@ -2,10 +2,10 @@
   <img width="400" height="400" alt="Caxuo Rabbit Video Compressor Logo" src="https://github.com/user-attachments/assets/6115dcdc-6ccc-4f96-988e-37094f9f9cd6" />
 </p>
 
-<h1 align="center">🎥 Caxuo Rabbit Video Compressor</h1>
+<h1 align="center">🎥 Caxuo Rabbit Video Compressor for Windows</h1>
 
 <p align="center">
-  <em>Free Bulk Video Compressor for Windows with added features — Fast, Portable & Easy to use.</em>
+  <em>Free Bulk Video Compressor with Five essential Processes for Videos in a single App — Fast, Portable & Easy to use.</em>
 </p>
 
 ---
