@@ -5,7 +5,7 @@
 <h1 align="center">🎥 Caxuo Rabbit Video Compressor</h1>
 
 <p align="center">
-  <em>Free Bulk Video Compressor for Windows with added features — Fast, Portable & Easy</em>
+  <em>Free Bulk Video Compressor for Windows with added features — Fast, Portable & Easy to use.</em>
 </p>
 
 ---
@@ -17,7 +17,12 @@
 ## 📌 What is Caxuo Rabbit Video Compressor?
 
 - **Caxuo Rabbit Video Compressor** is a **free, lightweight, and portable** Windows app for **bulk/batch video processing**.  
-- Process hundreds of videos at once — without installation, directly from a clean, intuitive GUI.  
+- Process hundreds of videos at once — without installation, directly from a clean, intuitive GUI.
+- No Watermark even in free version
+- Completely offline And Safe
+- No adware or bloatware
+- Portable App requiring No Installation
+- Five essential Processes for Videos in a single App 
 
 <p align="center">
   <img width="600" height="350" alt="Caxuo Rabbit Video Compressor Banner highlighting 5 processes" src="https://github.com/user-attachments/assets/dc85a7ac-6981-4cce-81f5-8bb6943b8ff3" />
