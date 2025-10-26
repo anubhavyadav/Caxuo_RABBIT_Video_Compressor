@@ -1,16 +1,16 @@
 <p align="center">
-  <img width="400" height="400" alt="Caxuo Rabbit Video Compressor Logo" src="https://github.com/user-attachments/assets/6115dcdc-6ccc-4f96-988e-37094f9f9cd6" />
+  <img width="200" alt="Caxuo Rabbit Video Compressor App Logo" src="https://github.com/user-attachments/assets/6115dcdc-6ccc-4f96-988e-37094f9f9cd6" />
 </p>
 
-<h1 align="center">🎥 Caxuo Rabbit Video Compressor for Windows</h1>
+<h2 align="center">🎥 Caxuo Rabbit Video Compressor for Windows</h2>
 
 <p align="center">
-  <em>Free bulk video compressor with five essential processes — Fast, Portable & Easy to use</em>
+  <em>Free bulk Video Compressor with five essential Video related processes — Fast, Portable & Easy to use</em>
 </p>
 
 ---
 
-**Go to Download page >>** [https://github.com/anubhavyadav/Caxuo_RABBIT_Video_Compressor/releases/latest](https://github.com/anubhavyadav/Caxuo_RABBIT_Video_Compressor/releases/tag/v1.0.2)
+**Go to Download page >>** https://github.com/anubhavyadav/Caxuo_RABBIT_Video_Compressor/releases/latest
 
 ---
 
@@ -74,11 +74,14 @@
 
 ---
 
-## 🤝 Community & Feedback
+### ❤️ Community & Feedback
 
-- **Raise an issue >>** [https://github.com/anubhavyadav/Caxuo_RABBIT_Video_Compressor/issues](https://github.com/anubhavyadav/Caxuo_RABBIT_Video_Compressor/issues)  
-- **Learn more about all Caxuo Apps >>** [https://levelup.caxuo.com/2025/04/free-productivity-softwares-by-caxuo.html](https://levelup.caxuo.com/2025/04/free-productivity-softwares-by-caxuo.html)
+📣 **We welcome your feedback and suggestions** to help improve and evolve this app.
+
+- **Raise an issue >>** https://github.com/anubhavyadav/Caxuo_RABBIT_Video_Compressor/issues
+
+- **Learn more about all Caxuo Apps >>** https://levelup.caxuo.com/2025/04/free-productivity-softwares-by-caxuo.html
 
 ---
 
-**Go to Download page >>** [https://github.com/anubhavyadav/Caxuo_RABBIT_Video_Compressor/releases/latest](https://github.com/anubhavyadav/Caxuo_RABBIT_Video_Compressor/releases/tag/v1.0.2)
+**Go to Download page >>** https://github.com/anubhavyadav/Caxuo_RABBIT_Video_Compressor/releases/latest
