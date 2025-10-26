@@ -5,72 +5,69 @@
 <h2 align="center">🎥 Caxuo Rabbit Video Compressor for Windows</h2>
 
 <p align="center">
-  <em>Free bulk Video Compressor with five essential Video related processes — Fast, Portable & Easy to use</em>
+  <em>Free bulk Video Compressor for Windows with five essential Video related processes — Fast, Portable & Easy to use</em>
 </p>
 
 ---
 
-**Go to Download page >>** https://github.com/anubhavyadav/Caxuo_RABBIT_Video_Compressor/releases/latest
+👉**Go to Download page >>** https://github.com/anubhavyadav/Caxuo_RABBIT_Video_Compressor/releases/latest
 
 ---
 
-## 📌 What is Caxuo Rabbit Video Compressor?
+### 📌 What is Caxuo Rabbit Video Compressor?
 
-- **Caxuo Rabbit** is a **free, lightweight, and portable** Windows app for **bulk/batch video processing**.  
-- Process hundreds of videos at once — directly from a clean, intuitive GUI.  
-- 🧩 Five essential processes in one app  
-- 🧱 No installation required  
-- 🚫 No watermark even in free version  
-- 🧼 No ads, bloatware, or forced updates  
-- 🔒 Works fully offline — safe and private  
+**Caxuo Rabbit** is a Free, lightweight, portable Windows tool for Five(5) processes related to Videos including Compress, Watermark, Scale, Format and Extract MP3 in batch/bulk - quickly and without installation.
 
 <p align="center">
-  <img width="600" height="350" alt="Caxuo Rabbit Video Compressor Banner highlighting 5 processes" src="https://github.com/user-attachments/assets/dc85a7ac-6981-4cce-81f5-8bb6943b8ff3" />
+  <img width="602" alt="Caxuo Rabbit Video Compressor Banner highlighting Five Video related processes" src="https://github.com/user-attachments/assets/dc85a7ac-6981-4cce-81f5-8bb6943b8ff3" />
 </p>
 
+### ✨ Key Features
+
+- 📉 **Compress** — Compression multiple Videos by choosing among *Lossless, Best, Extreme, or Insane*
+- 🖋️ **Watermark** — Add text or image watermark to multiple Videos (you can adjust position, rotation, transparency)
+- 📏 **Scale** — Resize multiple Videos to *1080p, 720p, or 480p*
+- 🔄 **Format** — Convert multiple Videos into *MP4, MOV, or MKV*
+- 🎵 **Extract Audio** — Save audio tracks at *128, 192, 256, or 320 kbps* from multiple Videos
+
 ---
-
-## ✨ Key Features
-
-- 📉 **Compress** — Choose compression level: *Lossless, Best, Extreme, or Insane*  
-- 🖋️ **Watermark** — Add text or image watermark (location, rotation, transparency)  
-- 📏 **Scale** — Resize video to *1080p, 720p, or 480p*  
-- 🔄 **Format** — Convert videos into *MP4, MOV, or MKV*  
-- 🎵 **Extract Audio** — Save audio tracks at *128, 192, 256, or 320 kbps*  
 
 <p align="center">
-  <img width="602" height="602" alt="Caxuo Rabbit Video Compressor Home Screen Layout" src="https://github.com/user-attachments/assets/92cf2b72-59c4-45ab-84f0-fcb6d4284ffe" />
+  <img width="602" alt="Caxuo Rabbit Video Compressor Home Screen Layout" src="https://github.com/user-attachments/assets/92cf2b72-59c4-45ab-84f0-fcb6d4284ffe" />
 </p>
 
 ---
 
-## 🖥️ App Layout Overview
+### 🖥️ App Layout Overview
 
-> **The interface is divided into 4 sections:**  
-> 1. 📂 **File List** — Add videos to the list  
-> 2. ⚙️ **Process Selection** — Choose from Compress, Watermark, Scale, Format, Extract Audio  
-> 3. 🎛️ **Process Preferences** — Adjust process-specific settings  
-> 4. 📤 **Export Panel** — Select output folder & start batch processing  
-
----
-
-## 🛠️ Quick Start Guide
-
-1. 📥 Download & unzip the package (recommended location: **Downloads folder**)  
-2. 📂 Add your videos to the list  
-3. ⚙️ Select a processing task (Compress, Watermark, Scale, Format, or Extract Audio)  
-4. 🎛️ Adjust preferences if needed  
-5. 📤 Choose output directory  
-6. ▶️ Hit **Export** to begin  
+> The interface is divided into four intuitive sections:
+> 1. 📂 **Status Bar and Progress Bar** — Notify you about Steps to be taken and progress during export
+> 2. 📂 **File List** — Add, remove or rearrange your Videos in the list
+> 3. ⚙️ **Process Selection and Preferences Panel** — Choose from Compress, Watermark, Scale, Format and Extract MP3 and then Adjust process-specific options
+> 4. 📤 **Export** — Choose output folder and start processing by pressing Export button
 
 ---
 
-## 💡 Advantages
+### 🛠️ Quick Start Guide
 
-- 🚀 Fast & portable — no installation needed  
+1. 📥 Download & unzip the package (keep in a folder other than Desktop)
+2. 📂 Add Videos to the file list
+3. ⚙️ Select a process among Compress, Watermark, Scale, Format and Extract MP3
+4. 🎛️ Adjust preferences
+5. 📤 Choose output directory
+6. ▶️ Press **Export** button  
+
+---
+
+### 💡 Advantages - Why choose Caxuo PICshark?
+
+- 🧩 Five Video related essential processes in one app
+- 🚀 Free to use, Lightweight & portable — no installation needed  
+- 📊 Progress & status bar for visual feedback  
 - ⏹️ Cancel export anytime  
-- 📊 Visual progress & status indicators  
-- 🔒 Works fully offline — no upload or tracking  
+- 💻 Works 100% offline (No Adware or Bloatware)
+- 🧩 Process hundreds of Images in bulk/batch
+- 🚫 No watermark in Compress, Scale and Format processes of the App
 
 ---
 
@@ -84,4 +81,4 @@
 
 ---
 
-**Go to Download page >>** https://github.com/anubhavyadav/Caxuo_RABBIT_Video_Compressor/releases/latest
+👉**Go to Download page >>** https://github.com/anubhavyadav/Caxuo_RABBIT_Video_Compressor/releases/latest
