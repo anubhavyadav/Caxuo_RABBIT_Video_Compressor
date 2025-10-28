@@ -36,25 +36,6 @@
   <img width="602" alt="Caxuo Rabbit Video Compressor Home Screen Layout" src="https://github.com/user-attachments/assets/92cf2b72-59c4-45ab-84f0-fcb6d4284ffe" />
 </p>
 
-### 🖥️ App Layout Overview
-
-> The interface is divided into four intuitive sections:
-> 1. 📂 **Status Bar and Progress Bar** — Notify you about Steps to be taken and progress during export
-> 2. 📂 **File List** — Add, remove or rearrange your Videos in the list
-> 3. ⚙️ **Process Selection and Preferences Panel** — Choose from Compress, Watermark, Scale, Format and Extract. Then Adjust process-specific options
-> 4. 📤 **Export** — Choose output folder and start processing by pressing Export button
-
----
-
-### 🛠️ Quick Start Guide
-
-1. 📥 Download & unzip the package (keep in a folder other than Desktop)
-2. 📂 Add Videos to the file list
-3. ⚙️ Select a process among Compress, Watermark, Scale, Format and Extract MP3
-4. 🎛️ Adjust preferences
-5. 📤 Choose output directory
-6. ▶️ Press **Export** button  
-
 ---
 
 ### 💡 Advantages - Why choose Caxuo PICshark?
