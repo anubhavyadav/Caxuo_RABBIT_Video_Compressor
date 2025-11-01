@@ -10,7 +10,7 @@
 
 ---
 
-👉**Go to Download page >>** https://github.com/anubhavyadav/Caxuo_RABBIT_Video_Compressor/releases/latest
+👉 **Go to Download page >>** https://github.com/anubhavyadav/Caxuo_RABBIT_Video_Compressor/releases/latest
 
 ---
 
@@ -38,15 +38,16 @@
 
 ---
 
-### 💡 Advantages - Why choose Caxuo PICshark?
+### 💡 Advantages - Why choose Caxuo Rabbit?
 
-- 🧩 Five Video related essential processes in one app
-- 🚀 Free to use, Lightweight & portable — no installation needed  
-- 📊 Progress & status bar for visual feedback  
-- ⏹️ Cancel export anytime  
-- 💻 Works 100% offline (No Adware or Bloatware)
-- 🧩 Process hundreds of Images in bulk/batch
-- 🚫 No watermark in Compress, Scale and Format processes of the App
+- 🧩 Five Video related essential processes in one app.
+- 🚀 Free to use, Lightweight & portable — no installation needed.
+- 📊 Progress & status bar for visual feedback.
+- ⏹️ Cancel export anytime.
+- 💻 Works 100% offline (No Adware or Bloatware).
+- 🧩 Process hundreds of Images in bulk/batch.
+- 🚫 No watermark in Compress, Scale and Format processes of the App.
+- 💻 Easily Remove the App from your Computer - just Delete its unzipped Folder (No uninstallation required).
 
 ---
 
