@@ -16,7 +16,7 @@
 
 ### 📌 About Caxuo Rabbit Video Compressor App
 
-**Caxuo Rabbit** is a Free, lightweight, portable Windows tool for Five(5) processes related to Videos including Compress, Watermark, Scale, Format and Extract MP3 in batch/bulk - quickly and without installation.
+- **Caxuo Rabbit** is a Free, lightweight, portable Windows tool for Five(5) processes related to Videos including Compress, Watermark, Scale, Format and Extract MP3 in batch/bulk - quickly and without installation.
 
 <p align="center">
   <img width="602" alt="Caxuo Rabbit Video Compressor Banner highlighting Five Video related processes" src="https://github.com/user-attachments/assets/dc85a7ac-6981-4cce-81f5-8bb6943b8ff3" />
@@ -61,4 +61,4 @@
 
 ---
 
-👉**Go to Download page >>** https://github.com/anubhavyadav/Caxuo_RABBIT_Video_Compressor/releases/latest
+👉 **Go to Download page >>** https://github.com/anubhavyadav/Caxuo_RABBIT_Video_Compressor/releases/latest
